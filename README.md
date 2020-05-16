@@ -4,10 +4,8 @@
 It is a small app that helps you to be relaxed.
 
 
-# app icon 
-![Group 253](https://user-images.githubusercontent.com/22550929/82108195-6d67e980-96f2-11ea-9b65-822736c416ab.png)
+# app icon and home
+![Group 253 (1)](https://user-images.githubusercontent.com/22550929/82108530-b0c35780-96f4-11ea-9f91-bd23416e9aaa.jpg)
 
 
-
-# app
-![Screenshot_2020-05-15-16-29-28-582_ysaac quarantine application](https://user-images.githubusercontent.com/22550929/82108221-a56f2c80-96f2-11ea-95e5-9256f57b988c.jpg)
+![Screenshot_2020-05-15-16-29-28-582_ysaac quarantine application (1)](https://user-images.githubusercontent.com/22550929/82108555-cf295300-96f4-11ea-9b2c-42dea73723c6.jpg)
